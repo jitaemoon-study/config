@@ -1,5 +1,5 @@
 build:
-  version: "30.0"
+  version: "45.0"
 
 accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
