@@ -3,3 +3,5 @@
 client:
   info:
     buildVersion: 1.0
+    developer: admin
+    createdAt: 2025-01-15
