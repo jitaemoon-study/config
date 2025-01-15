@@ -1,5 +1,5 @@
 
 
 client:
-  build:
-    version: 1.0
+  info:
+    buildVersion: 1.0
