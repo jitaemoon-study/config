@@ -29,3 +29,7 @@ management:
 
 build:
   version: 2.0
+
+user:
+  name: admin
+  age: 20
